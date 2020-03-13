@@ -1,4 +1,4 @@
-kEmoji
+# kEmoji 记录些有趣emoji
 
 ### 目录
 
