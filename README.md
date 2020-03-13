@@ -1,16 +1,11 @@
-git commit emoji 使用指南
-============================
+kEmoji
 
-#### 目录
+### 目录
 
-<!-- vim-markdown-toc GFM -->
-
-* [commit 格式](#commit-格式)
-* [emoji 指南](#emoji-指南)
-* [如何在命令行中显示 emoji](#如何在命令行中显示-emoji)
-* [参考](#参考)
-  * [git commit emoji](#git-commit-emoji)
-  * [write a good commit message](#write-a-good-commit-message)
++ [commit 格式](#commit-格式)
++ [emoji 指南](#emoji指南)
++ [如何在命令行中显示emoji](如何在命令行中显示emoji)
++ [参考](参考)
 
 ### commit 格式
 
@@ -80,8 +75,6 @@ emoji                                   | emoji 代码                   | commi
 ![emojify](terminal_emojify.png)
 
 ### 参考
-
-#### git commit emoji
 
 - [gitmoji](https://github.com/carloscuesta/gitmoji/)
 - [emoji-cheat-sheet](http://www.webpagefx.com/tools/emoji-cheat-sheet/)
