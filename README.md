@@ -1,4 +1,4 @@
-# kEmoji 记录些有趣emoji
+# gemoji 记录些有趣github emoji
 
 ### 目录
 
